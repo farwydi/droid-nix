@@ -27,5 +27,3 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -am "factory-cli: update to $ver"
           git push
-
-# nudge workflow registration
