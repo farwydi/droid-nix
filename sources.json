@@ -1,0 +1,21 @@
+{
+  "version": "0.156.2",
+  "systems": {
+    "x86_64-linux": {
+      "suffix": "linux/x64",
+      "hash": "sha256-z9vR2+m8EQcOWZuGU2SOCSkbiaRpMwnQOgebPllub9U="
+    },
+    "aarch64-linux": {
+      "suffix": "linux/arm64",
+      "hash": "sha256-LiVEitZM89niqaE4fETiXV2dncRIJjzgUYsC4rwdGVE="
+    },
+    "x86_64-darwin": {
+      "suffix": "darwin/x64",
+      "hash": "sha256-aICCjerR48xkEJDsXdFdfYo7BUmQNN29NFUdY2kdHaI="
+    },
+    "aarch64-darwin": {
+      "suffix": "darwin/arm64",
+      "hash": "sha256-gcaZ3KUGS6G1OsOoClzcDB84O14p9vznaqYC8eny2o0="
+    }
+  }
+}
