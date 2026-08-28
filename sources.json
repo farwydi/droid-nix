@@ -1,21 +1,21 @@
 {
-  "version": "0.205.1",
+  "version": "0.206.0",
   "systems": {
     "x86_64-linux": {
       "suffix": "linux/x64",
-      "hash": "sha256-Hm6YEjH8l6maYWIHSK9CC9Tu+uWxxjLD81l/LPEGc/w="
+      "hash": "sha256-dYGMeR0vJw6sJJnWKJDgUwosCVyiaNvzzJfU7Oi9bs4="
     },
     "aarch64-linux": {
       "suffix": "linux/arm64",
-      "hash": "sha256-X7ZjgQMoAznwpbp/Pd8OEO63CU5FoPsauGkfFZtSXFA="
+      "hash": "sha256-tPPaH7JupQSM9oefTlbyy0js2PbpsExUM/xfbnbMfwc="
     },
     "x86_64-darwin": {
       "suffix": "darwin/x64",
-      "hash": "sha256-5ZywvSgULcMOJNgDNurmsLyMrqlfRQYgOTcuziLmd+Q="
+      "hash": "sha256-eefPxGgdVc8wouR0QlBLMRr25KGQnYSq0lK38qVfAa4="
     },
     "aarch64-darwin": {
       "suffix": "darwin/arm64",
-      "hash": "sha256-osBcka/OD3fCtF+epF+ebQN/cEgIDwh4dYs9tQZXdek="
+      "hash": "sha256-YSX+urxfr8CMKCRgWAgS7+rdIOPWAiBrModEdGWnQnY="
     }
   }
 }
